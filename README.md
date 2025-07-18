@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer Ijaz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate fullstack developer from Pakistan 🇵🇰</h3>
 
 - 🔭 I’m currently working on **Smellify - Github Integrated AI Driven Code Health Assessment Tool for MERN Stack Using Static Analysis**
 
