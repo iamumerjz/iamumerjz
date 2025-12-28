@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Pakistan 🇵🇰</h3>
 
 - 🔭 I’m currently working on **Smellify - Github Integrated AI Driven Code Health Assessment Tool for MERN Stack Using Static Analysis**
-- 
+
 - 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [github.com/iamumerjz](github.com/iamumerjz)
